@@ -1,6 +1,7 @@
 # Geolocalização com Angular e Ionic
+A ideia desse projeto é consumir informações de latitude e Longitude, apresentando rotas de um ponto a outro usando Routing Machine. 
 
-Plugins utilizados:
+# Plugins utilizados:
 
 npm install leaflet --save
 
