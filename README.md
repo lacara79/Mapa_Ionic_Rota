@@ -13,6 +13,13 @@ npm install --save leaflet-routing-machine
 
 npm i --save-dev @types/leaflet-routing-machine
 
+# CSS
+
+É importante configurar o global.scss
+```
+@import "~leaflet/dist/leaflet.css";
+@import "~leaflet-routing-machine/dist/leaflet-routing-machine.css"
+```
 
 # Notas
 
